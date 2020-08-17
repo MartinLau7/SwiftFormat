@@ -52,6 +52,7 @@
 		01BBD85C21DAA2A700457380 /* Globs.swift in Sources */ = {isa = PBXBuildFile; fileRef = 01BBD85821DAA2A000457380 /* Globs.swift */; };
 		01BBD85E21DAA30700457380 /* GlobsTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 01BBD85D21DAA30700457380 /* GlobsTests.swift */; };
 		01BEC5772236E1A700D0DD83 /* MetadataTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 01BEC5762236E1A700D0DD83 /* MetadataTests.swift */; };
+		01D3B28624E9C9C700888DE0 /* FormattingHelpers.swift in Sources */ = {isa = PBXBuildFile; fileRef = 01D3B28524E9C9C700888DE0 /* FormattingHelpers.swift */; };
 		01F17E821E25870700DCD359 /* CommandLine.swift in Sources */ = {isa = PBXBuildFile; fileRef = 01F17E811E25870700DCD359 /* CommandLine.swift */; };
 		01F17E831E25870700DCD359 /* CommandLine.swift in Sources */ = {isa = PBXBuildFile; fileRef = 01F17E811E25870700DCD359 /* CommandLine.swift */; };
 		01F17E851E258A4900DCD359 /* CommandLineTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 01F17E841E258A4900DCD359 /* CommandLineTests.swift */; };
@@ -181,6 +182,7 @@
 		01BBD85821DAA2A000457380 /* Globs.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Globs.swift; sourceTree = "<group>"; };
 		01BBD85D21DAA30700457380 /* GlobsTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GlobsTests.swift; sourceTree = "<group>"; };
 		01BEC5762236E1A700D0DD83 /* MetadataTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MetadataTests.swift; sourceTree = "<group>"; };
+		01D3B28524E9C9C700888DE0 /* FormattingHelpers.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FormattingHelpers.swift; sourceTree = "<group>"; };
 		01F17E811E25870700DCD359 /* CommandLine.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = CommandLine.swift; sourceTree = "<group>"; };
 		01F17E841E258A4900DCD359 /* CommandLineTests.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = CommandLineTests.swift; sourceTree = "<group>"; };
 		01F3DF8B1DB9FD3F00454944 /* Options.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Options.swift; sourceTree = "<group>"; };
@@ -313,6 +315,7 @@
 				01045A90211988F100D2BE3D /* Inference.swift */,
 				01A0EABE1D5DB4F700A0A8E3 /* Rules.swift */,
 				01567D2E225B2BFD00B22D41 /* ParsingHelpers.swift */,
+				01D3B28524E9C9C700888DE0 /* FormattingHelpers.swift */,
 				01ACAE04220CD90F003F3CCF /* Examples.swift */,
 				01A0EAA71D5DB4CF00A0A8E3 /* SwiftFormat.h */,
 				01A0EAC41D5DB54A00A0A8E3 /* SwiftFormat.swift */,
@@ -785,6 +788,7 @@
 				E4FABAD5202FEF060065716E /* OptionsDescriptor.swift in Sources */,
 				01BBD85921DAA2A000457380 /* Globs.swift in Sources */,
 				01ACAE05220CD90F003F3CCF /* Examples.swift in Sources */,
+				01D3B28624E9C9C700888DE0 /* FormattingHelpers.swift in Sources */,
 				E4E4D3C92033F17C000D7CB1 /* EnumAssociable.swift in Sources */,
 				01A0EAC11D5DB4F700A0A8E3 /* Rules.swift in Sources */,
 				01A0EAC51D5DB54A00A0A8E3 /* SwiftFormat.swift in Sources */,
